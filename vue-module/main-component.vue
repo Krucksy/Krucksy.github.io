@@ -61,60 +61,160 @@
                 month: 0,
                 year: 0,
 
+                // EMT
+                // alarms: [
+                //     {
+                //         hour: 7,
+                //         minute: 35,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 8,
+                //         minute: 20,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 8,
+                //         minute: 25,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 9,
+                //         minute: 10,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 9,
+                //         minute: 15,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 10,
+                //         minute: 0,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 10,
+                //         minute: 15,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 11,
+                //         minute: 0,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 11,
+                //         minute: 5,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 11,
+                //         minute: 50,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 11,
+                //         minute: 55,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 12,
+                //         minute: 40,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 13,
+                //         minute: 25,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 13,
+                //         minute: 30,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 14,
+                //         minute: 15,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 14,
+                //         minute: 20,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 15,
+                //         minute: 5,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 15,
+                //         minute: 15,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 16,
+                //         minute: 0,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 16,
+                //         minute: 5,
+                //         enable: true,
+                //     },
+                //     {
+                //         hour: 16,
+                //         minute: 50,
+                //         enable: true,
+                //     },
+                // ],
+
+                // Lycée
                 alarms: [
                     {
-                        hour: 7,
-                        minute: 35,
-                        enable: true,
-                    },
-                    {
                         hour: 8,
-                        minute: 20,
-                        enable: true,
-                    },
-                    {
-                        hour: 8,
-                        minute: 25,
-                        enable: true,
-                    },
-                    {
-                        hour: 9,
-                        minute: 10,
-                        enable: true,
-                    },
-                    {
-                        hour: 9,
                         minute: 15,
                         enable: true,
                     },
                     {
-                        hour: 10,
+                        hour: 9,
                         minute: 0,
                         enable: true,
                     },
                     {
-                        hour: 10,
-                        minute: 15,
+                        hour: 9,
+                        minute: 05,
                         enable: true,
                     },
                     {
-                        hour: 11,
-                        minute: 0,
-                        enable: true,
-                    },
-                    {
-                        hour: 11,
-                        minute: 5,
-                        enable: true,
-                    },
-                    {
-                        hour: 11,
+                        hour: 9,
                         minute: 50,
                         enable: true,
                     },
                     {
-                        hour: 11,
+                        hour: 10,
+                        minute: 10,
+                        enable: true,
+                    },
+                    {
+                        hour: 10,
                         minute: 55,
+                        enable: true,
+                    },
+                    {
+                        hour: 11,
+                        minute: 0,
+                        enable: true,
+                    },
+                    {
+                        hour: 11,
+                        minute: 45,
+                        enable: true,
+                    },
+                    {
+                        hour: 12,
+                        minute: 35,
                         enable: true,
                     },
                     {
@@ -122,7 +222,6 @@
                         minute: 40,
                         enable: true,
                     },
-
                     {
                         hour: 13,
                         minute: 25,
